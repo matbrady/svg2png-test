@@ -1,0 +1,20 @@
+{
+  "name": "svg2png-debug",
+  "version": "0.0.1",
+  "description": "testing for svg2png",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svg2png",
+    "error",
+    "test"
+  ],
+  "author": "Mat Brady",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-svg2png": "^0.3.0"
+  }
+}
